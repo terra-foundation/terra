@@ -22,10 +22,7 @@ It focuses on **ease of orchestration**, **daily growth**, and **developer sover
 
 ## 🌱 Philosophy
 
-- **Freedom** over lock-in
-- **Creation** over consumption
-- **Agency** over automation
-- **Evolution** over stagnation
+- **Freedom**, **Creation**, **Agency**, **Evolution**
 
 > **Terra is for those who want to shape their own intelligent worlds — not rent them.**
 
