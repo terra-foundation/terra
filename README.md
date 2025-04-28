@@ -33,7 +33,7 @@ It focuses on **ease of orchestration**, **daily growth**, and **developer sover
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourname/terra.git
+git clone https://github.com/terra-foundation/terra.git
 cd terra
 ```
 
